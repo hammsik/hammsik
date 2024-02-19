@@ -2,7 +2,7 @@
 
 ### Hi there 🤩
 
-🌱 I’m focusing on Mobile App Development.
+<!-- 🌱 I’m focusing on Mobile App Development.-->
 
 
 
